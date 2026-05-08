@@ -1,9 +1,12 @@
 # The Concentration of Success: Analysing Spotify’s Top 1,000 Most Streamed Global Hits (2014–2026)
 
 ## Project Overview
-This project explores whether people turn to more upbeat, danceable, or escapist music during economic uncertainty using Spotify global chart data. 
 
-It demonstrates web scraping, data cleaning, visualisation, and regression analysis.
+This project examines the concentration of success in the global music streaming industry by analysing the top 1,000 most streamed songs on Spotify’s Global chart from 2014 to 2026.
+
+Using data scraped from Kworb.net, the study investigates how streaming success is distributed across artists and individual tracks. It explores key patterns such as artist dominance, the extreme skewness of stream distribution, and the relationship between chart performance (peak position and weeks in the Top 10) and total streams.
+
+Through web scraping, data cleaning, visualisation, and regression analysis, this project highlights the “winner-takes-most” nature of modern digital music consumption.
 
 ---
 
