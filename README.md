@@ -28,7 +28,7 @@ python scripts/03_analysis.py
 Open blog.ipynb and run all  
 
 ### Project Structure
-The-Concentration-of-Success-Analysing-Spotify-s-Top-1-000-Most-Streamed-Global-Hits-2014-2026/
+The-Concentration-of-Success-Analysing-Spotify-s-Top-1-000-Most-Streamed-Global-Hits-2014-2026/   
 ├── README.md  
 ├── requirements.txt  
 ├── blog.ipynb                  
