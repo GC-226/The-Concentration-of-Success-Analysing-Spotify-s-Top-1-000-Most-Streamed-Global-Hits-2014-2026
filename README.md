@@ -44,9 +44,9 @@ Open blog.ipynb and run all
 | jupyter              | 1.0.0       | Notebook environment |
 
 ### Tools & Techniques Used
-Web Scraping: requests + BeautifulSoup
-Data Processing: pandas
-Visualisation: matplotlib + seaborn
-Statistical Modelling: statsmodels (OLS Regression)
-Version Control: Git + GitHub
+Web Scraping: requests + BeautifulSoup   
+Data Processing: pandas  
+Visualisation: matplotlib + seaborn  
+Statistical Modelling: statsmodels (OLS Regression)  
+Version Control: Git + GitHub   
 
