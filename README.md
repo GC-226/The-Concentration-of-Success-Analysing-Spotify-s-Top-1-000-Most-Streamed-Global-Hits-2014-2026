@@ -24,23 +24,6 @@ python scripts/03_analysis.py
 ### View the Blog Post
 Open blog.ipynb and run all
 
-### Project Structure
-spotify-music-hits-and-economics/
-├── README.md
-├── requirements.txt
-├── blog.ipynb                 
-├── data/
-│   ├── raw/                    
-│   └── processed/             
-├── scripts/
-│   ├── 01_scrape_charts.py     
-│   ├── 02_clean_data.py        
-│   └── 03_analysis.py          
-├── output/
-│   └── plots/                  
-├── .gitignore
-└── LICENSE
-
 ## Packages & Versions Used
 
 | Package              | Version     | Purpose |
